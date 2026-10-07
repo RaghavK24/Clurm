@@ -1,0 +1,9 @@
+{
+  "name": "job1",
+  "executable": "sample_jobs/a",
+  "priority": 2,
+  "time_required": 20,
+  "min_memory": 512,
+  "min_cores": 1,
+  "max_memory": 2048
+}

@@ -1,0 +1,12 @@
+{
+  "tcp_address": "127.0.0.1",
+  "tcp_port": 18082,
+  "udp_address": "127.0.0.1",
+  "udp_port": 18083,
+  "primary_address": "127.0.0.1",
+  "primary_tcp_port": 18080,
+  "primary_check_interval_ms": 50,
+  "primary_check_timeout_ms": 50,
+  "primary_failure_threshold": 3,
+  "primary_startup_grace_ms": 5000
+}

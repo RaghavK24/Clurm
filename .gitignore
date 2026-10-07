@@ -1,0 +1,8 @@
+*.o
+*.db
+client/client_app
+client/sample_jobs/a
+master/master_app
+master/backup_app
+compute/compute_app
+.DS_Store

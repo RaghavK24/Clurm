@@ -1,0 +1,9 @@
+{
+  "tcp_address": "127.0.0.1",
+  "tcp_port": 18080,
+  "udp_address": "127.0.0.1",
+  "udp_port": 18081,
+  "backup_address": "127.0.0.1",
+  "backup_tcp_port": 18082,
+  "backup_connect_timeout_ms": 200
+}

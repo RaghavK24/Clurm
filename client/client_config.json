@@ -1,0 +1,7 @@
+{
+  "master_address": "127.0.0.1",
+  "master_tcp_port": 18080,
+  "backup_address": "127.0.0.1",
+  "backup_tcp_port": 18082,
+  "client_callback_address": "127.0.0.1"
+}
